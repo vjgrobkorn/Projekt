@@ -1,0 +1,29 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.421
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Projekt", "Projekt\Projekt.csproj", "{C73F0EEA-8F51-45AE-B45A-EA60E5869288}"
+EndProject
+Project("{54435603-DBB4-11D2-8724-00A0C9A8B90C}") = "LogandoProjektSetup", "LogandoProjektSetup\LogandoProjektSetup.vdproj", "{DEFB507A-D436-4D96-9B4D-28ACCBFF7EBD}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{C73F0EEA-8F51-45AE-B45A-EA60E5869288}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C73F0EEA-8F51-45AE-B45A-EA60E5869288}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C73F0EEA-8F51-45AE-B45A-EA60E5869288}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C73F0EEA-8F51-45AE-B45A-EA60E5869288}.Release|Any CPU.Build.0 = Release|Any CPU
+		{DEFB507A-D436-4D96-9B4D-28ACCBFF7EBD}.Debug|Any CPU.ActiveCfg = Debug
+		{DEFB507A-D436-4D96-9B4D-28ACCBFF7EBD}.Release|Any CPU.ActiveCfg = Release
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {FF4E06EA-1BC4-4B24-BA88-D1047176D11F}
+	EndGlobalSection
+EndGlobal
